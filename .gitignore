@@ -1,0 +1,20 @@
+# Логи
+*.log
+logs/
+
+# Переменные окружения и секреты
+.env
+*.key
+*.pem
+secrets.yaml
+
+# Временные файлы
+tmp/
+*.tmp
+
+# macOS
+.DS_Store
+
+# Редакторы
+.vscode/
+.idea/
