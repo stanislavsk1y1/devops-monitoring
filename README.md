@@ -7,3 +7,4 @@
 - check_memory.sh — проверка памяти
 «## Автор: [Stanislav]»
 ## Лицензия: MIT
+- check_cpu.sh — проверка загрузки CPU
