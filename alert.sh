@@ -3,3 +3,4 @@
 send_alert() {
     echo "ALERT: $1" >> /var/log/alerts.log
 }
+send_alert "Диск заполнен"
